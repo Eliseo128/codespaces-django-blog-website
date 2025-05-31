@@ -1,4 +1,14 @@
 # GitHub Codespaces ♥️ Django
+## video
+https://youtu.be/57_9i4Le8YA?si=rPRaqkpFpuD60EGP
+
+## github
+https://github.com/Nawaj2417/Blog_project.git
+
+## creando proyecto blog
+django-admin startproject blog
+
+## creando la app
 
 Welcome to your shiny new Codespace running Django! We've got everything fired up and running for you to explore Django.
 
